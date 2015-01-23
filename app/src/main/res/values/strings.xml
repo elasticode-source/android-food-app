@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food app</string>
+    <string name="splash_text">Splash!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="main_title">Select Food Type</string>
+    <string name="desc_icon">Icon</string>
+
+</resources>
